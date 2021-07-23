@@ -9,5 +9,5 @@ spacy==2.2.4
 SQLAlchemy==1.3.24
 sqlparse==0.4.1
 # spacy model
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
+en-core-web-sm-mirror
 
