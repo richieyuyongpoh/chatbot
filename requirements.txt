@@ -3,3 +3,4 @@ numpy==1.19.5
 wikipedia==1.4.0
 ChatterBot==1.0.8
 chatterbot-corpus==1.2.0
+dill==0.3.4
