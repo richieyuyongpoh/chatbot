@@ -1,1 +1,2 @@
-web: sh setup.sh && streamlit run chatWithMeNow.py
+web: streamlit run chatWithMeNow.py
+
